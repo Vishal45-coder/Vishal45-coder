@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal45-coder
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me vishalraavi1999@gmail.com
 
 <!---
