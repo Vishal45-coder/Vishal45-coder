@@ -1,6 +1,4 @@
 
-Memory updated
-Here's a possible GitHub introduction for you:
 
 Hi, I'm Vishal Raavi 👋
 
